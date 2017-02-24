@@ -1,0 +1,3 @@
+# VerticaCase
+
+Vertica Uase Cases
